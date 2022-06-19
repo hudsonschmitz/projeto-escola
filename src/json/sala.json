@@ -1,0 +1,157 @@
+{
+    "Sexto ano" : [
+        {
+            "Nome" : "Gabriela martinhuk",
+            "Faltas" : 12,
+            "nota" : 6,
+            "Materia" : [
+                "Matematica"
+            ]
+        },
+        {
+    
+            "Nome" : "Gabriela martinhuk",
+            "Faltas" : 2,
+            "nota" : 8,
+            "Materia" : [
+                "Portugues"
+            ]
+
+        },
+
+        {
+    
+            "Nome" : "Gabriela martinhuk",      
+            "Faltas" : 5,
+            "nota" : 8,
+            "Materia" : [
+                "Geografia"
+            ]
+
+        },
+        {
+    
+            "Nome" : "Gabriela martinhuk",
+            "Faltas" : 6,
+            "nota" : 8,
+            "Materia" : [
+                "Biologia"
+            ]
+
+        },
+
+        {
+    
+            "Nome" : "Gabriela martinhuk",
+            "Faltas" : 2,
+            "nota" : 8,
+            "Materia" : [
+                "Ed. fisica"
+            ]
+
+        },
+
+        {
+            "Nome" : "Pedro Santos",
+            "Faltas" : 12,
+            "nota" : 6,
+            "Materia" : [
+                "Matematica"
+            ]
+        },  
+        {
+    
+            "Nome" : "Pedro Santos",
+            "Faltas" : 2,
+            "nota" : 8,
+            "Materia" : [
+                "Portugues"
+            ]
+
+        },
+
+        {
+    
+            "Nome" : "Pedro Santos",
+            "Faltas" : 5,
+            "nota" : 8,
+            "Materia" : [
+                "Geografia"
+            ]
+
+        },
+        {
+    
+            "Nome" : "Pedro Santos",
+            "Faltas" : 6,
+            "nota" : 8,
+            "Materia" : [
+                "Biologia"
+            ]
+
+        },
+
+        {
+    
+            "Nome" : "Pedro Santos",
+            "Faltas" : 2,
+            "nota" : 8,
+            "Materia" : [
+                "Ed. fisica"
+            ]
+
+        },
+        
+        {
+            "Nome" : "Sarah Blako",
+            "Faltas" : 12,
+            "nota" : 6,
+            "Materia" : [
+                "Matematica"
+            ]
+        },
+        {
+    
+            "Nome" : "Sarah Blako",
+            "Faltas" : 2,
+            "nota" : 8,
+            "Materia" : [
+                "Portugues"
+            ]
+
+        },
+
+        {
+    
+            "Nome" : "Sarah Blako",
+            "Faltas" : 5,
+            "nota" : 8,
+            "Materia" : [
+                "Geografia"
+            ]
+
+        },
+        {
+    
+            "Nome" : "Sarah Blako",
+            "Faltas" : 6,
+            "nota" : 8,
+            "Materia" : [
+                "Biologia"
+            ]
+
+        },
+
+        {
+    
+            "Nome" : "Sarah Blako",
+            "Faltas" : 2,
+            "nota" : 8,
+            "Materia" : [
+                "Ed. fisica"
+            ]
+
+        }
+
+    ]
+}
