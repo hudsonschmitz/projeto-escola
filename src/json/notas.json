@@ -1,0 +1,59 @@
+{
+    "notas": [
+        {
+            "matricula": "202201",
+            "materia": "Portugues",
+            "professor": "Aline Bastos",
+            "aluno": "Gustavo Fries",
+            "turmaAno": "6° ano",
+            "nota": "3.0",
+            "faltas": "18",
+            "totalAulas": "24",
+            "situacao": "Reprovado"
+        },
+        {
+            "matricula": "202202",
+            "materia": "Matematica",
+            "professor": "Guilherme Carlos",
+            "aluno": "Gustavo Fries",
+            "turmaAno": "6° ano",
+            "nota": "7.0",
+            "faltas": "4",
+            "totalAulas": "24",
+            "situacao": "Reprovado"
+        },
+        {
+            "matricula": "202203",
+            "materia": "Ed.Fisica",
+            "professor": "Esdras Lemuel",
+            "aluno": "Gustavo Fries",
+            "turmaAno": "6° ano",
+            "nota": "10.0",
+            "faltas": "0",
+            "totalAulas": "24",
+            "situacao": "Reprovado"
+        },
+        {
+            "matricula": "202204",
+            "materia": "Geografia",
+            "professor": "Emilly Kutz",
+            "aluno": "Gustavo Fries",
+            "turmaAno": "6° ano",
+            "nota": "6.0",
+            "faltas": "0",
+            "totalAulas": "24",
+            "situacao": "Reprovado"
+        },
+        {
+            "matricula": "202205",
+            "materia": "Sociologia",
+            "professor": "Gustavo Reis",
+            "aluno": "Gustavo Fries",
+            "turmaAno": "6° ano",
+            "nota": "8.5",
+            "faltas": "0",
+            "totalAulas": "24",
+            "situacao": "Reprovado"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "Notas": [
+        {
+            "itens": "Mochila",
+            "valor": "59,99",
+            "tamanho": "Padrão",
+            "cor": "Azul"
+        },
+        {
+            "itens": "Caderno",
+            "valor": "20,99",
+            "tamanho": "Padrão",
+            "cor": "Azul"
+        },
+        {
+            "Itens": "Lapis",
+            "valor": "5,99",
+            "tamanho": "Padrão",
+            "cor": "Azul"
+        },
+        {
+            "Itens": "Caneta",
+            "valor": "5,99",
+            "tamanho": "Padrão",
+            "cor": "Azul"
+        }
+    ]
+}
