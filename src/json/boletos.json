@@ -1,30 +1,27 @@
 {
-    "Notas": [
+    "boletos": [
         {
             "matricula": "202201",
-            "responsavel": "José antônio",
             "aluno": "Aline Araujo de Oliveira",
             "situacao": "Matriculado",
             "ano": "5°série",
-            "sexo": "F",
+            "valor": "R$:1000.00",
             "ativExtra": "SIM"
         },
         {
-            "matricula": "202203",
-            "responsavel": "Joaquim Alves",
+            "matricula": "202202",
             "aluno": "Francisco Lima",
-            "situacao": "Matriculado",
+            "situacao": "Pendente",
             "ano": "3° série",
-            "sexo": "M",
+            "valor": "R$:700.00",
             "ativExtra": "NÃO"
         },
         {
-            "Matricula": "202204",
-            "responsavel": "Carla Oliveira",
+            "matricula": "202203",
             "aluno": "Andressa Wilanne Pinheiro",
             "situacao": "Matriculado",
             "ano": "4° serie",
-            "sexo": "F",
+            "valor": "R$:1000.00",
             "ativExtra": "NÃO"
         }
     ]
